@@ -1,0 +1,19 @@
+.progress-bar-color{
+    background-color: #986fda!important;
+}
+.btn-purple{
+	border-width: 5px!important;
+	border-color: #986fda!important;
+	color: #986fda!important;
+	font-size: 18px;
+	text-align: center!important;
+}
+.btn-purple:hover{
+	background: #986fda!important;
+	color: white!important;
+}
+.fixed-footer{
+    position: fixed;
+    bottom: 0;
+    color: white;
+}
